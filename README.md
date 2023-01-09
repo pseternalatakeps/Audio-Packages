@@ -38,6 +38,11 @@ Now, simply run this command to begin installing all of the packages and depende
 sudo bash packages.sh
 ```
 
+Additionally you can run this command, but personally, I prefer bash.
+```
+./packages.sh
+```
+
 # Credits
 **Creator**: `Eternal Atake`<br>
 **Developer**: `Eternal Atake`
